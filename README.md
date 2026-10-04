@@ -4,8 +4,6 @@ AI-powered flight monitoring and passenger connection alert system built in Make
 
 An AI-powered automation that monitors arriving flights in real time, matches passengers against a live database, calculates connection windows, and sends personalized alerts — without human intervention.
 
-![Scenario Overview](screenshots/scenario-overview.png)
-
 ## 🎯 The Problem
 
 Airport operations teams struggle to notify passengers about tight connections. Manual monitoring doesn't scale, and generic alerts ignore real-time delays and each passenger's actual connection window.
