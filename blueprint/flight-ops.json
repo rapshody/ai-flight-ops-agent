@@ -19,9 +19,7 @@
                 "queryParameters": [
                     {
                         "name": "access_key",
-                        "value": "your_aviationstack_api_key
-
-            "
+                        "value": "your_aviationstack_api_key"
                     },
                     {
                         "name": "flight_iata",
